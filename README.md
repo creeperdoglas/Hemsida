@@ -1,3 +1,5 @@
+detta är ett fritidsprojekt så kommer nog inte vara klar med det förrens i mitten av sommaren 
+
 pc byggare:
 
 *ska kunna från prisjakt hämta de bästa priserna  på datordelar och lagras i en sql databas
