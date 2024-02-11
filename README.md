@@ -1,4 +1,5 @@
 pc byggare:
+
 *ska kunna från prisjakt hämta de bästa priserna  på datordelar och lagras i en sql databas
 
 *skapa konton där man kan spara sina byggen 
