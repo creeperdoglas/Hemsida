@@ -14,4 +14,4 @@ pc byggare:
 
 *hashade lösenord 
 
-*chatt funktion där AI hjälper att välja delar 
+*chatt funktion där AI hjälper att välja delar från databasen med en API
