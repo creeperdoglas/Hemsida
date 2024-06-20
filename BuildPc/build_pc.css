@@ -1,0 +1,47 @@
+body {
+  font-family: Arial, sans-serif;
+}
+
+h1 {
+  text-align: center;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+label {
+  margin-top: 10px;
+}
+
+select {
+  margin-bottom: 10px;
+  width: 200px;
+}
+
+button {
+  margin-top: 20px;
+  padding: 10px 20px;
+  font-size: 16px;
+}
+
+select:hover::after {
+  content: attr(data-info);
+  position: absolute;
+  background-color: #fff;
+  border: 1px solid #ccc;
+  padding: 5px;
+  z-index: 1;
+  white-space: pre;
+  display: none;
+}
+
+select:hover {
+  position: relative;
+}
+
+select:hover::after {
+  display: block;
+}
