@@ -1,4 +1,4 @@
-detta är ett fritidsprojekt så kommer nog inte vara klar med det förrens i mitten av sommaren 
+detta är ett fritidsprojekt så kommer nog inte vara klar med det förrens i mitten av sommaren, notera att användaren melgu374 även är jag. Detta projekt kommer ta borts i närmandet av fullt klar av säkerhetskäl
 
 pc byggare:
 
@@ -14,4 +14,4 @@ pc byggare:
 
 *hashade lösenord 
 
-*chatt funktion där AI hjälper att välja delar 
+*chatt funktion där AI hjälper att välja delar från databasen med en API
