@@ -17,6 +17,7 @@
         <li><a href="#about">Om Oss</a></li>
         <li><a href="#services">Tjänster</a></li>
         <li><a href="#contact">Kontakt</a></li>
+        <li><a href="BuildPC/build_pc.php">Bygg din PC</a></li>
         <li style="float:right"><a href="login.php">Logga In</a></li>
       </ul>
     </nav>

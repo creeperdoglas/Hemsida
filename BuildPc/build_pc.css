@@ -27,21 +27,15 @@ button {
   font-size: 16px;
 }
 
-select:hover::after {
-  content: attr(data-info);
-  position: absolute;
-  background-color: #fff;
+.product-info {
+  margin-top: 20px;
+  padding: 10px;
   border: 1px solid #ccc;
-  padding: 5px;
-  z-index: 1;
-  white-space: pre;
+  background-color: #f9f9f9;
+  width: 300px;
   display: none;
 }
 
-select:hover {
-  position: relative;
-}
-
-select:hover::after {
-  display: block;
+.product-info strong {
+  font-weight: bold;
 }
