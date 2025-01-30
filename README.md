@@ -15,3 +15,5 @@ pc byggare:
 *hashade lösenord 
 
 *chatt funktion där AI hjälper att välja delar från databasen med en API
+
+*Just nu används en web scraper som samlar information från prisjakt, detta bryter mot deras användarregler, kommer därför inte använda denna hemsida i kommersiellt syfte alls och endast i syftet att vissa upp mina kunskaper
